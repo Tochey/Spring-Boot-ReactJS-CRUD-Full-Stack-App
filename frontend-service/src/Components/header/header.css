@@ -1,0 +1,17 @@
+.header-container{
+    background-color: #1B2631;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-container > h2{
+    color: white;
+    margin-left: 20px;
+}
+
+.onlyIcon{
+    color: white;
+    font-size: 30px;
+}
